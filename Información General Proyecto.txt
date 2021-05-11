@@ -1,0 +1,20 @@
+
+Casos de uso:
+
+  - Etiquetar muestra (cargar en el sistema)
+  - Envío del paquete
+  - Identificar paquete recibido
+  - Logearse (acceder)
+  - Darse de alta
+  - Generar informe de envíos realizados (plazo de tiempo)
+  - Registrar llegada de envío
+  - Informar y enviar alerta
+  - Obtener informe con envíos con incidencia
+  - Generar documentación de envío
+
+
+Actores:
+
+  * Usuarios farmacéuticos
+  * Usuarios del banco
+  * Usuarios administrativos
