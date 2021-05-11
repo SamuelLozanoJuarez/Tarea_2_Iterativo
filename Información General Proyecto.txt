@@ -5,7 +5,8 @@ Casos de uso:
   - Envío del paquete
   - Identificar paquete recibido
   - Logearse (acceder)
-  - Darse de alta
+  - Dar de alta personas
+  - Dar de alta técnicas analíticas
   - Generar informe de envíos realizados (plazo de tiempo)
   - Registrar llegada de envío
   - Informar y enviar alerta
